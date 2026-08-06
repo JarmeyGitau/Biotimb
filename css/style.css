@@ -189,6 +189,8 @@ max-width:800px;
 
 padding:20px;
 
+
+
 }
 
 
@@ -894,6 +896,12 @@ align-items:center;
 
 }
 
+.hero-ca{
 
+  max-width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
 
 }
